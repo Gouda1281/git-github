@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-master
-=======
-first branch
->>>>>>> firstbranch
